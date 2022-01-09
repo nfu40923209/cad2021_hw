@@ -1,0 +1,57 @@
+<h3>40923209</h3>
+<p>期中考第一題</p>
+<p><a href="https://drive.google.com/drive/folders/1GglM8wnv37JIgEqLjTo1BgNoJ65hw_VC?usp=sharing">圖檔-零件-組合</a></p>
+<p><a href="https://drive.google.com/drive/folders/1fuHu2jZ8Zod4MyKnZWp1e7yP-GyoqxtC?usp=sharing">STL</a></p>
+<p><a href="https://drive.google.com/file/d/1U58_D3nah8rKLLznwo78JId3PTk0Sugf/view?usp=sharing">CoppeliaSim</a></p>
+<p>--------------------------------------------------------------</p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1920" height="1080" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://nfu40923209.github.io/cad2021_hw/downloads/%E6%9C%9F%E4%B8%AD%E8%80%83%E7%AC%AC%E4%B8%80%E9%A1%8C.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>--------------------------------------------------------------</p>
+<p>期中考第一題延伸題</p>
+<p><a href="https://drive.google.com/drive/folders/1zhjz6ghKSfXeUbOlgCQ5g4UZaFrj_Pg1?usp=sharing">stl</a></p>
+<p><a href="https://drive.google.com/drive/folders/1mRknm3wq0FGTexQg8QMyLjxBej33fCCD?usp=sharing">coppeliasim</a></p>
+<p>--------------------------------------------------------------------</p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1920" height="1080" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://nfu40923209.github.io/cad2021_hw/downloads/%E6%9C%9F%E4%B8%AD%E8%80%83%E7%AC%AC%E4%B8%80%E9%A1%8C%E5%BB%B6%E4%BC%B8.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>--------------------------------------------------------------------------------------</p>
+<p>心得:在做完這次期末考第一題和延伸題的題目後，我感覺到了分組的重要性，原因是在考試前我原本一直不太會使用Coppliasim，不理解Coppliasim功能的使用和組裝原理，而我的組員40923207在星期四夜間輔導時詢問老師經歷老師教導後，組員不藏私的也一一的教導我，使我在做這次的考題時能夠知道如何組裝、設定和操作，順利的完成此次考題。</p>
